@@ -1,0 +1,12 @@
+{
+    "al.assemblyProbingPaths": [
+        "./.netpackages",
+        "C:/Program Files/Microsoft Dynamics 365 Business Central/250/Service/Add-ins",
+        "C:/Program Files/Microsoft Dynamics 365 Business Central/250/Service",
+        "C:/Program Files/Microsoft Dynamics 365 Business Central/Addins/",
+        "C:/Windows/assembly"
+    ],
+    "al.compilationOptions": {
+        "generateReportLayout": true
+        }
+}
