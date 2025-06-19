@@ -29,7 +29,7 @@
   "features": [
   
   ],
-  "runtime": "16.0",
+  "runtime": "14.0",
   "target": "OnPrem"
  
 }
